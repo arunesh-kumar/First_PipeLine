@@ -3,7 +3,7 @@ pipeline {
   stages {
     stage('Build') {
       steps {
-        echo 'hii this is firdt build step'
+        echo ' 2 + 2 =4 ? echo'hii''
       }
     }
 
